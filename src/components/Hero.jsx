@@ -48,7 +48,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="text-5xl md:text-7xl font-extrabold tracking-tight mb-4 font-display bg-clip-text text-transparent bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 dark:from-white dark:via-slate-200 dark:to-white"
         >
-          Sandeep Gaire
+          Sandip Gaire
         </motion.h1>
 
         {/* Technical Subheading */}

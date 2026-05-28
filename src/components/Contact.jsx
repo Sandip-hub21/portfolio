@@ -81,7 +81,7 @@ export default function Contact() {
             <div className="space-y-4">
               {/* Email */}
               <a
-                href="mailto:sandeep.gaire@example.com"
+                href="mailto:sandeepgaire260@.com"
                 className="flex items-center gap-4 p-4 border border-slate-200 dark:border-slate-800 bg-white dark:bg-[#0c0f16] rounded-2xl hover:border-slate-350 dark:hover:border-slate-700 transition-all group"
               >
                 <div className="w-10 h-10 rounded-xl bg-indigo-50 dark:bg-indigo-950/50 flex items-center justify-center text-indigo-600 dark:text-indigo-400">
@@ -90,7 +90,7 @@ export default function Contact() {
                 <div>
                   <h5 className="text-xs font-bold text-slate-450 dark:text-slate-400 uppercase tracking-wider">Email</h5>
                   <p className="text-sm font-semibold text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
-                    sandeep.gaire@example.com
+                                      sandeepgaire260@.com
                   </p>
                 </div>
               </a>
