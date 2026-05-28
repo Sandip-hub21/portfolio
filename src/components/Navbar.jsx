@@ -51,7 +51,7 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#home" className="flex items-center gap-2 group font-display font-bold text-lg tracking-tight">
           <Code2 className="w-5 h-5 text-indigo-600 dark:text-indigo-400 group-hover:rotate-6 transition-transform" />
-          <span>Sandeep Gaire</span>
+          <span>Sandip Gaire</span>
         </a>
 
         {/* Desktop Nav */}
