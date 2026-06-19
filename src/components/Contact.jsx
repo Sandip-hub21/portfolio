@@ -115,7 +115,7 @@ export default function Contact() {
 
               {/* GitHub */}
               <a
-                href="https://github.comhttps://github.com/Sandip-hub21"
+                href="https://github.com/Sandip-hub21"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 p-4 border border-slate-200 dark:border-slate-800 bg-white dark:bg-[#0c0f16] rounded-2xl hover:border-slate-350 dark:hover:border-slate-700 transition-all group"
